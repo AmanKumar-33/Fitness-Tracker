@@ -1,5 +1,5 @@
 
-from lec20_helpers import gpsDistance
+from HelperFunction import gpsDistance
 
 
 # =============================================================================
