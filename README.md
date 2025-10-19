@@ -1,5 +1,4 @@
 # Fitness-Tracker
-<!-- Steps by steps a Plan to build a Fitness Tracker  -->
 (1) Define your project Goals
 1.APPS will tracKs:
  - calorie burned
@@ -9,7 +8,7 @@
 WebApp → Django ( Python)
 - [x]Platform
 - [ ]WebApp -> Django
-- [ ]app based
+- [ ]App
 
 (3)What types of Data My App Wil handle:
 (i) INPUTS: user info(Age,Weight,Height,activity,Workouts)
@@ -17,7 +16,7 @@ WebApp → Django ( Python)
 (iii) storage: local files(json,scv,or Sqlite) or Cloud Database(FireBase or SQL)
  
 (4)Building the core features:-
-• calorie tracking or workout TyPes
+• calorie tracking or workout types
 • Gps Tracking
 
 → Goal Setting
@@ -27,11 +26,16 @@ Daily/weekly calorie or workout goals
  
 
 (5) INTEGRATE APIS Or SensorS
-→comnect With SmartWatch
-using blueroth library(bleak)
+→connect With SmartWatch
+using bluetooth library(bleak)
 
 
 (6)TEST and Debu
-• TEST EaCh feature seperately
-• Ensure inpit Dolidamon
+• TEST Each feature seperately
+• Ensure input 
 • Handle incorrect data gracefully.
+
+
+
+<img src="C:\Users\amans\OneDrive\Documents\GitHub\Fitness-Tracker\Requirement\Screenshot 2025-10-18 122715.png" alt="ScreenShort" title="Fitness App Screenshort">
+<img src="C:\Users\amans\OneDrive\Documents\GitHub\Fitness-Tracker\Requirement\Screenshot 2025-10-18 115648.png" alt="ScreenShort" title="Fitness App Screenshort">
