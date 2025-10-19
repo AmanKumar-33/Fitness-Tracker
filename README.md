@@ -37,5 +37,5 @@ using bluetooth library(bleak)
 
 
 
-<img src="C:\Users\amans\OneDrive\Documents\GitHub\Fitness-Tracker\Requirement\Screenshot 2025-10-18 122715.png" alt="ScreenShort" title="Fitness App Screenshort">
-<img src="C:\Users\amans\OneDrive\Documents\GitHub\Fitness-Tracker\Requirement\Screenshot 2025-10-18 115648.png" alt="ScreenShort" title="Fitness App Screenshort">
+<img src="https://github.com/AmanKumar-33/Fitness-Tracker/blob/5c1898103ffd0c64bd6b928adf8d6babaea9f860/Requirement/Screenshot%202025-10-19%20115648.png" alt="ScreenShort" title="Fitness App Screenshort">
+<img src="https://github.com/AmanKumar-33/Fitness-Tracker/blob/5c1898103ffd0c64bd6b928adf8d6babaea9f860/Requirement/Screenshot%202025-10-18%20122715.png" alt="ScreenShort" title="Fitness App Screenshort">
