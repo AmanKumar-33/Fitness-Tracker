@@ -1,5 +1,5 @@
 
-from lec20_helpers import gpsDistance
+from HelperFunction import gpsDistance
 
 
 # =============================================================================
@@ -191,21 +191,7 @@ end = '9/30/2021 1:45 PM'
 
 
 
-################## YOU TRY IT #########################
-# Create one Workout object saved as variable w_one, 
-# from Jan 1 2021 at 3:30 PM until 4 PM. 
-# You want to estimate the calories from this workout. 
-# Print the number of calories for w_one.
-pass
-
-# Create another Workout object saved as w_two, 
-# from Jan 1 2021 at 3:35 PM until 4 PM. 
-# You know you burned 300 calories for this workout.  
-# Print the number of calories for w_two. 
-pass
-
-#############################################
-
+ 
 
 # =============================================================================
 # EXAMPLE: Subclass of workout to represent a running workout
