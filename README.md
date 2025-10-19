@@ -1,6 +1,5 @@
 # Fitness-Tracker
-
-(!)Steps by steps a Plan to build a Fitness Tracker 
+<!-- Steps by steps a Plan to build a Fitness Tracker  -->
 (1) Define your project Goals
 → APPS will tracKs:
 (i) calorie burned
