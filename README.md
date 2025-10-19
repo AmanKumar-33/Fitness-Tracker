@@ -1,12 +1,15 @@
 # Fitness-Tracker
 <!-- Steps by steps a Plan to build a Fitness Tracker  -->
 (1) Define your project Goals
-→ APPS will tracKs:
-(i) calorie burned
-(ii)workout sessions
+1.APPS will tracKs:
+ - calorie burned
+ - workout sessions
 
 (2)Platform
-• WebApp → Django ( Python)
+WebApp → Django ( Python)
+- [x]Platform
+- [ ]WebApp -> Django
+- [ ]app based
 
 (3)What types of Data My App Wil handle:
 (i) INPUTS: user info(Age,Weight,Height,activity,Workouts)
